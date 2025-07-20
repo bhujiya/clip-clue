@@ -8,4 +8,3 @@ yt-dlp==2023.11.14
 torch>=2.0.0
 faster-whisper
 setuptools<81
-legacy-cgi>=2.6; python_version>='3.13'

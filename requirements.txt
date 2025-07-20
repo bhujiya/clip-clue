@@ -6,4 +6,4 @@ youtube-transcript-api==0.6.1
 googletrans==4.0.0rc1
 yt-dlp==2023.11.14
 torch>=2.0.0
-openai-whisper==20231117
+faster-whisper

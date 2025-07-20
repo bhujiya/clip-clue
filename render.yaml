@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: your-app-name
+    env: python
+    buildCommand: |
+      pip install --upgrade pip
+      pip install --only-binary=all -r requirements.txt
+    startCommand: python app.py

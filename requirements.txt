@@ -1,8 +1,9 @@
 aiogram==3.4.1
-aiohttp==3.9.1
+aiohttp>=3.9.0,<3.10.0
 python-dotenv==1.0.0
 youtube-transcript-api==0.6.1
 googletrans==4.0.0rc1
-yt-dlp==2024.1.7
-openai-whisper==20231117
+yt-dlp==2023.11.14
 torch>=2.0.0
+faster-whisper
+setuptools<81

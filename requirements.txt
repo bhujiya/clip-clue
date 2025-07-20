@@ -1,4 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
+--only-binary=:all:
+--prefer-binary
 aiogram==3.4.1
 aiohttp==3.9.1
 python-dotenv==1.0.0
